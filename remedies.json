@@ -1,0 +1,180 @@
+[
+  {
+    "name": "Yarrow",
+    "category": "Wound Healing",
+    "description": "Used to stop bleeding and heal minor cuts.",
+    "instructions": "Apply crushed fresh leaves directly to the wound. Can also be brewed into a tea for fevers.",
+    "image": "https://www.istockphoto.com/photos/yarrow"
+  },
+  {
+    "name": "Elderberry",
+    "category": "Immune Support",
+    "description": "Helps reduce the duration of cold and flu.",
+    "instructions": "Simmer berries to make a syrup. Take 1 tablespoon daily during cold season.",
+    "image": "https://www.istockphoto.com/photos/elderberry-bush"
+  },
+  {
+    "name": "Chamomile",
+    "category": "Calming",
+    "description": "Eases anxiety and helps with sleep.",
+    "instructions": "Steep dried flowers in hot water for 10 minutes to make a calming tea.",
+    "image": "https://www.istockphoto.com/photos/chamomile-plant"
+  },
+  {
+    "name": "Echinacea",
+    "category": "Immune Support",
+    "description": "Boosts the immune system and fights infections.",
+    "instructions": "Take as a tincture or tea at the first sign of illness, up to 3 times per day.",
+    "image": "https://www.istockphoto.com/photos/echinacea"
+  },
+  {
+    "name": "Peppermint",
+    "category": "Digestive Aid",
+    "description": "Relieves indigestion and soothes the stomach.",
+    "instructions": "Use fresh or dried leaves to make a tea. Sip after meals.",
+    "image": "https://www.istockphoto.com/photos/peppermint-plant"
+  },
+  {
+    "name": "Lavender",
+    "category": "Calming",
+    "description": "Promotes relaxation and eases headaches.",
+    "instructions": "Inhale essential oil or add flowers to a sachet placed near the pillow.",
+    "image": "https://www.istockphoto.com/photos/lavender-plant"
+  },
+  {
+    "name": "Comfrey",
+    "category": "Wound Healing",
+    "description": "Traditionally used to heal bruises, sprains, and broken bones.",
+    "instructions": "Use as a poultice on unbroken skin. Do not ingest.",
+    "image": "https://www.istockphoto.com/photos/comfrey"
+  },
+  {
+    "name": "Valerian",
+    "category": "Sleep Aid",
+    "description": "Promotes restful sleep and reduces insomnia.",
+    "instructions": "Take as a tincture or capsule 30 minutes before bedtime.",
+    "image": "https://www.gettyimages.com/photos/valerian"
+  },
+  {
+    "name": "Slippery Elm",
+    "category": "Digestive Aid",
+    "description": "Soothes sore throats and irritated stomach linings.",
+    "instructions": "Mix powdered bark with warm water into a gruel or tea.",
+    "image": "https://www.inaturalist.org/taxa/54860-Ulmus-rubra/browse_photos"
+  },
+  {
+    "name": "Goldenseal",
+    "category": "Antimicrobial",
+    "description": "Used as a natural antibiotic and to treat infections.",
+    "instructions": "Use tincture or tea. Limit use to short periods.",
+    "image": "https://www.shutterstock.com/search/goldenseal"
+  },
+  {
+    "name": "St. John\u2019s Wort",
+    "category": "Mood Support",
+    "description": "Helps relieve mild to moderate depression.",
+    "instructions": "Take as tea or capsule. Avoid sun exposure and consult doctor if on medications.",
+    "image": "https://www.istockphoto.com/photos/st-johns-wort"
+  },
+  {
+    "name": "Nettle",
+    "category": "Anti-inflammatory",
+    "description": "Used to treat joint pain and seasonal allergies.",
+    "instructions": "Steep dried leaves for tea, or cook fresh leaves like spinach.",
+    "image": "https://www.shutterstock.com/search/nettle"
+  },
+  {
+    "name": "Dandelion",
+    "category": "Detoxification",
+    "description": "Supports liver function and digestion.",
+    "instructions": "Use root or leaves in tea or eat fresh greens in salad.",
+    "image": "https://www.istockphoto.com/photos/dandelion-leaves"
+  },
+  {
+    "name": "Licorice Root",
+    "category": "Respiratory",
+    "description": "Soothes sore throats and supports lung function.",
+    "instructions": "Simmer dried root to make tea. Do not use long-term or with high blood pressure.",
+    "image": "https://www.istockphoto.com/photos/licorice-root"
+  },
+  {
+    "name": "Calendula",
+    "category": "Skin Care",
+    "description": "Heals wounds, burns, and skin irritations.",
+    "instructions": "Infuse in oil for salves, or apply as cooled tea compress.",
+    "image": "https://www.istockphoto.com/photos/calendula"
+  },
+  {
+    "name": "Plantain",
+    "category": "Wound Healing",
+    "description": "Draws out toxins and speeds up healing of insect bites and cuts.",
+    "instructions": "Crush fresh leaves and apply as poultice or brew for a rinse.",
+    "image": "https://www.istockphoto.com/photos/plantain"
+  },
+  {
+    "name": "Hawthorn",
+    "category": "Cardiovascular",
+    "description": "Supports heart health and circulation.",
+    "instructions": "Use berries, leaves, and flowers in tincture or tea form daily.",
+    "image": "https://www.istockphoto.com/photos/hawthorn"
+  },
+  {
+    "name": "Willow Bark",
+    "category": "Pain Relief",
+    "description": "Contains salicin, a natural pain reliever like aspirin.",
+    "instructions": "Simmer bark in water to make tea. Use short term for pain relief.",
+    "image": "https://www.istockphoto.com/photos/willow-bark"
+  },
+  {
+    "name": "Milk Thistle",
+    "category": "Liver Support",
+    "description": "Protects and regenerates liver cells.",
+    "instructions": "Take standardized extract in capsule form or as tea.",
+    "image": "https://www.istockphoto.com/photos/milk-thistle"
+  },
+  {
+    "name": "Mullein",
+    "category": "Respiratory",
+    "description": "Eases coughs and inflammation of the respiratory tract.",
+    "instructions": "Steep dried leaves in hot water for tea. Strain well before drinking.",
+    "image": "https://www.istockphoto.com/photos/mullein"
+  },
+  {
+    "name": "Ashwagandha",
+    "latin_name": "Withania somnifera",
+    "category": "Adaptogen",
+    "description": "Used to reduce stress, improve energy and vitality.",
+    "instructions": "Take as a powdered root mixed in warm milk or as capsules/tincture.",
+    "preparation": "Powder, tincture, tea",
+    "image": "https://www.istockphoto.com/photos/ashwagandha",
+    "origin": "India",
+    "tradition": "Ayurveda \u2013 used for rejuvenation and nervous system support.",
+    "grow_info": "Grows in dry, sunny climates. Can be cultivated in warm regions.",
+    "foraging_notes": "Not found wild in North America; grow from seed.",
+    "pharma_alternative": "Anti-anxiety medication, adaptogens",
+    "freedom_index": {
+      "grow_yourself": true,
+      "corporate_dependency": false,
+      "accessibility_score": 4
+    }
+  },
+  {
+    "name": "Tulsi (Holy Basil)",
+    "latin_name": "Ocimum tenuiflorum",
+    "category": "Respiratory & Immune",
+    "description": "Supports immunity and lung health, relieves stress.",
+    "instructions": "Drink as tea daily or take as a tincture.",
+    "preparation": "Tea, tincture, fresh leaves",
+    "image": "https://www.istockphoto.com/photos/holy-basil",
+    "origin": "India",
+    "tradition": "Ayurveda \u2013 sacred herb known as the 'Queen of Herbs.'",
+    "grow_info": "Easy to grow annually in most climates; loves sun.",
+    "foraging_notes": "Not found wild in North America; grows easily in pots.",
+    "pharma_alternative": "Immune boosters, anxiolytics",
+    "freedom_index": {
+      "grow_yourself": true,
+      "corporate_dependency": false,
+      "accessibility_score": 5
+    }
+  }
+]
